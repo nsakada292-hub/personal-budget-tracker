@@ -1,0 +1,154 @@
+{
+  "Reaksa": {
+    "transactions": [
+      {
+        "amount": 400.0,
+        "category": "Travel",
+        "date": "2026-03-31",
+        "id": 2,
+        "note": "Moto",
+        "type": "expense"
+      },
+      {
+        "amount": 300.0,
+        "category": "Rent",
+        "date": "2026-04-02",
+        "id": 3,
+        "note": "room",
+        "type": "expense"
+      }
+    ]
+  },
+  "Reaksmey": {
+    "transactions": [
+      {
+        "amount": 3000.0,
+        "category": "Salary",
+        "date": "2026-03-10",
+        "id": 1,
+        "note": "MonthlySalary",
+        "type": "income"
+      },
+      {
+        "amount": 300.0,
+        "category": "Freelance",
+        "date": "2026-03-20",
+        "id": 2,
+        "note": "FreelanceSalary",
+        "type": "income"
+      },
+      {
+        "amount": 300.0,
+        "category": "food",
+        "date": "2026-03-01",
+        "id": 3,
+        "note": "Lunch",
+        "type": "expense"
+      },
+      {
+        "amount": 200.0,
+        "category": "rent",
+        "date": "2026-03-01",
+        "id": 4,
+        "note": "Roomrent",
+        "type": "expense"
+      }
+    ]
+  },
+  "Ryna": {
+    "transactions": [
+      {
+        "amount": 2000.0,
+        "category": "Travel",
+        "date": "2026-04-02",
+        "id": 2,
+        "note": "Canada",
+        "type": "expense"
+      },
+      {
+        "amount": 3000.0,
+        "category": "Salary",
+        "date": "2026-04-20",
+        "id": 1,
+        "note": "Freelance",
+        "type": "income"
+      }
+    ]
+  },
+  "admin": {
+    "transactions": [
+      {
+        "amount": 2000.0,
+        "category": "Personal",
+        "date": "2026-03-01",
+        "id": 1,
+        "note": "monthly",
+        "type": "income"
+      },
+      {
+        "amount": 3000.0,
+        "category": "food",
+        "date": "2026-09-01",
+        "id": 1,
+        "note": "Honeymoon",
+        "type": "expense"
+      }
+    ]
+  },
+  "huhu": {
+    "transactions": [
+      {
+        "amount": 100.0,
+        "category": "salary",
+        "date": "2026-09-09",
+        "id": 1,
+        "note": "monthly",
+        "type": "income"
+      },
+      {
+        "amount": 90.0,
+        "category": "food",
+        "date": "2026-09-01",
+        "id": 2,
+        "note": "lunch",
+        "type": "expense"
+      }
+    ]
+  },
+  "komara": {
+    "transactions": [
+      {
+        "amount": 500.0,
+        "category": "Persional",
+        "date": "2026-03-10",
+        "id": 1,
+        "note": "Salary",
+        "type": "income"
+      },
+      {
+        "amount": 400.0,
+        "category": "food",
+        "date": "2026-03-01",
+        "id": 2,
+        "note": "lunch",
+        "type": "expense"
+      },
+      {
+        "amount": 200.0,
+        "category": "food",
+        "date": "2026-03-01",
+        "id": 3,
+        "note": "Dinner",
+        "type": "expense"
+      },
+      {
+        "amount": 90.0,
+        "category": "rent",
+        "date": "2026-03-01",
+        "id": 4,
+        "note": "room",
+        "type": "expense"
+      }
+    ]
+  }
+}
